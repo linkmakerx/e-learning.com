@@ -1,0 +1,51 @@
+body{
+    background: linear-gradient(rgba(0,0,50,0.5), rgba(0,0,50,0.5)), url(images/key.png);
+    background-size: cover;
+    background-position: center;
+    color: #fff !important;
+}
+
+.login-box{
+    max-width: 700px;
+    margin: 150px auto;
+    float: none;
+}
+
+.login-left{
+    background: rgba(211, 211, 211, 0.5);
+    padding: 50px;
+}
+
+.login-right{
+    background: #fff;
+    padding: 50px;
+}
+
+.form-control{
+    background-color: transparent !important;
+}
+
+.table{
+    width: auto;
+    margin: 30px auto;
+    border: solid;
+    text-align: left;
+    align-self: center;
+    position: center;
+}
+
+.h1{
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.button{
+    text-align: center !important;
+    position: relative;
+}
+
+.wrapper{
+    width: 80%;
+    width: 0 auto;
+    margin: auto auto;
+}
